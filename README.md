@@ -1,2 +1,5 @@
 # Faster-Typer
-First game created with no known bugs!
+First game created in Github!
+Try it!
+
+Faster Typer aims to train your keyboard typing skill!
